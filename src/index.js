@@ -1,3 +1,4 @@
-import './sass/main.scss';
+const axios = require('axios');
+import Notiflix from 'notiflix';
 
-console.log('Hello World');
+
